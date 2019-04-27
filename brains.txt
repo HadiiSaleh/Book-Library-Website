@@ -1,0 +1,17 @@
+sami :)
+
+1.zid 3al css ta3oul class "row" : justify-content: center;
+  
+L7ata kell lraws yzi7o 3a noss lssaf7a eza btla7iz henne 3al shmel
+
+.row {
+    justify-content: center;
+}
+
+2.https://stackoverflow.com/questions/25352324/load-data-while-scrolling-page-down-with-angularjs
+
+visit this site to solve "load on scrolling" problem
+
+3.dont forget to add the new search engine done yesterday to your code
+
+regards:) 
